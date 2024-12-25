@@ -1,0 +1,17 @@
+.popup__error {
+    color: #FF0000;
+    font-size: 12px;
+    font-weight: 400;
+    margin-top: 5px;
+    display: none;
+}
+
+.popup__error_active {
+    display: block;
+}
+
+
+
+.popup__input_type_error {
+    border-color: #FF0000; 
+}
